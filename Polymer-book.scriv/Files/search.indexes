@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Title>Web components</Title>
+        </Document>
+        <Document ID="4">
+            <Title>Polymer</Title>
+        </Document>
+        <Document ID="5">
+            <Title>Polymer app</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Gotchas y errores comúnes</Title>
+        </Document>
+        <Document ID="7">
+            <Title>Compartir mis web components</Title>
+        </Document>
+        <Document ID="8">
+            <Title>Integración con otros frameworks front-end</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Introducción</Title>
+        </Document>
+        <Document ID="10">
+            <Title>Templates</Title>
+        </Document>
+        <Document ID="11">
+            <Title>Shadow DOM</Title>
+        </Document>
+        <Document ID="12">
+            <Title>Custom Elements</Title>
+        </Document>
+        <Document ID="13">
+            <Title>Imports</Title>
+        </Document>
+        <Document ID="14">
+            <Title>Mi primer web component con vainilla javascript</Title>
+        </Document>
+        <Document ID="15">
+            <Title>Polyfills</Title>
+        </Document>
+        <Document ID="16">
+            <Title>¡Usemos web components!</Title>
+        </Document>
+        <Document ID="17">
+            <Title>Mi primer Polymer component</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Atributos</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Definiendo nuestra app</Title>
+        </Document>
+        <Document ID="20">
+            <Title>Yo Polymer</Title>
+        </Document>
+        <Document ID="21">
+            <Title>Componiendo nuestra app</Title>
+        </Document>
+        <Document ID="22">
+            <Title>Angular.js</Title>
+        </Document>
+        <Document ID="23">
+            <Title>Backbone.js</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
